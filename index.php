@@ -176,5 +176,5 @@ if ($action === 'logout') {
 }
 
 // الصفحة الرئيسية
-echo json_encode(['success' => true, 'message' => 'IMEI Server is running', 'version' => '1.0']);
+echo json_encode(['success' => true, 'message' => 'IMEI Server is Fard running', 'version' => '1.0']);
 
